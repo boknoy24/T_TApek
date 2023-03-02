@@ -80,7 +80,7 @@ cmake ..
 make
 ```
 ```bash
-sudo ./T_TApek
+sudo ./T_TApe
 ```
 ### or u can use script 
 * BuildAndRun.sh - to build and run
