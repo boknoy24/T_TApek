@@ -59,10 +59,10 @@ sudo make install
 
 ## 5. Clone repo
 ```bash
-git clone https://github.com/Braziliana/T_TApe.git
+git clone https://github.com/boknoy24/T_TApek.git
 ```
 ```bash
-cd T_TApe
+cd T_TApek
 ```
 
 ## 6. Build and run
